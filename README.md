@@ -50,6 +50,8 @@ P(A^c) = 1 − P(A).
 ## **4. Conditional Probability**
 Conditional probability is the probability of an event A occurring given that event B has already occurred. It is calculated as:  
 P(A | B) = P(A ∩ B) / P(B), where P(B) ≠ 0.
+![conditional-probability-formula](https://github.com/user-attachments/assets/f023f206-f3f8-457f-8874-be3182ec0e1a)
+
 
 Example:  
 In a deck of cards, if we know a card is a face card, the probability that it is a King is:  
