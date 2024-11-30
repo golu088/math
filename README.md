@@ -59,6 +59,9 @@ P(King | Face Card) = 4/12 = 1/3.
 
 ## **5. Bayes' Theorem**
 Bayes' Theorem provides a way to update the probability of an event based on new information. It is expressed as:  
+
+![bayes](https://github.com/user-attachments/assets/15b3d93f-211d-4b0b-9d4a-bb25fb9e4129)
+
 P(A | B) = (P(B | A) ⋅ P(A)) / P(B).
 
 Example:  
