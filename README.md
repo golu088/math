@@ -104,15 +104,24 @@ The Central Limit Theorem states that the distribution of the sum (or mean) of a
 
 ## **10. Key Probability Distributions**
 ### **Binomial Distribution**
-The Binomial Distribution describes the number of successes in a fixed number of independent Bernoulli trials, each with the same probability of success.  
+The Binomial Distribution describes the number of successes in a fixed number of independent Bernoulli trials, each with the same probability of success.
+
+![binEquation2](https://github.com/user-attachments/assets/1947c272-3fdf-42a0-a60e-1abd413944ca)
+
 PMF: P(X = k) = (n choose k) ⋅ p^k ⋅ (1 − p)^(n − k).
 
 ### **Normal Distribution**
-The Normal Distribution is a continuous distribution that is symmetric around the mean. It is often used to model real-world phenomena.  
+The Normal Distribution is a continuous distribution that is symmetric around the mean. It is often used to model real-world phenomena. 
+<img width="521" alt="normal dis" src="https://github.com/user-attachments/assets/a984d459-dd14-4041-a199-1ded7402cf55">
+
+
 PDF: f(x) = (1 / √(2πσ²)) ⋅ e^−((x − μ)² / 2σ²).
 
 ### **Poisson Distribution**
 The Poisson Distribution models the number of times an event occurs within a fixed interval of time or space.  
+![poisson-distribution-formula](https://github.com/user-attachments/assets/d0ad55fa-5bde-42b0-ba1c-33a2d311053a)
+
+
 PMF: P(X = k) = (λ^k e^−λ) / k!, where λ is the average rate of occurrence.
 
 ---
